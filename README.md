@@ -1,9 +1,7 @@
 # Elegance 🎴
 The elegance theme for Oh-My-Posh is perfect for those who value clean lines, simplicity, and a touch of sophistication. It strikes the perfect balance between functionality and style.
 
-Elegance is a skin for Oh-My-Posh, a cross-shell prompt theme engine.
-
-Currently it is available in four unique color flavors, each offering its own unique look and feel.
+Elegance is a skin for Oh-My-Posh, a cross-shell prompt theme engine. Currently, it is available in four unique color flavors, each offering its own unique look and feel.
 
 ## Screenshots
 
