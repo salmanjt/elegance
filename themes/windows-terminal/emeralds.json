@@ -1,0 +1,23 @@
+{
+    "name": "Emeralds",
+    "background": "#1a1a18",
+    "foreground": "#dfdfc2",
+    "black": "#111110",
+    "blue": "#83bcd8",
+    "cyan": "#95c6bd",
+    "green": "#c0ca91",
+    "purple": "#d4a0bd",
+    "red": "#e09190",
+    "white": "#dfdfc2",
+    "yellow": "#efd56c",
+    "brightBlack": "#151514",
+    "brightBlue": "#83bcd8",
+    "brightCyan": "#95c6bd",
+    "brightGreen": "#c0ca91",
+    "brightPurple": "#d4a0bd",
+    "brightRed": "#e09190",
+    "brightWhite": "#dfdfc2",
+    "brightYellow": "#efd56c",
+    "cursorColor": "#dfdfc2",
+    "selectionBackground": "#1e1e1c"
+}
