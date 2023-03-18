@@ -1,38 +1,43 @@
-# elegance.omp 🎴
-The elegance theme for Oh-My-Posh is a sleek and aesthetically pleasing theme that is perfect for those who value clean lines, simplicity, and a touch of sophistication. It strikes the perfect balance between functionality and style.
+# Elegance 🎴
+The elegance theme for Oh-My-Posh is perfect for those who value clean lines, simplicity, and a touch of sophistication. It strikes the perfect balance between functionality and style.
 
-Available in three unique color flavors, each offering its own unique look and feel.
+Elegance is a skin for Oh-My-Posh, a cross-shell prompt theme engine.
 
-## GitHub Dark
-This flavor boasts GitHub's signature dark palette, complete with deep shades of grey and black and crisp white text for clarity. Ideal for those who prefer a classic and traditional look.
+Currently it is available in four unique color flavors, each offering its own unique look and feel.
 
-![Image](pictures/github_dark/gitdark.png "GitHub Dark")
+## Screenshots
 
-![Image](pictures/github_dark/gitdark_neofetch.png "GitHub Dark - Neofetch")
+### Emeralds
+Featuring hues of dark forest, mossy and emerald greens, this theme evokes a sense of luxury and elegance, while also representing growth, renewal and natural beauty.
 
-![Image](pictures/github_dark/gitdark_winfetch.png "GitHub Dark - Winfetch")
+![Image](?? "Emeralds")
 
-## GitHub Dim
-A lighter, more subtle take on GitHub's Dark theme, this flavor features soft greys and whites for a relaxed and peaceful workspace.
+![Image](?? "Emeralds - Neofetch")
 
-![Image](pictures/github_dim/gitdim.png "GitHub Dim")
-
-![Image](pictures/github_dim/gitdim_neofetch.png "GitHub Dim - Neofetch")
-
-![Image](pictures/github_dim/gitdim_winfetch.png "GitHub Dim - Winfetch")
-
-## Dracula
+### Dracula
 Bold and vibrant, this flavor is based on the iconic Dracula theme. Perfect for those who want their prompt to stand out with its distinctive and striking palette.
 
-![Image](pictures/dracula/dracula.png "Dracula")
+![Image](?? "Dracula")
 
-![Image](pictures/dracula/dracula_neofetch.png "Dracula - Neofetch")
+![Image](?? "Dracula - Neofetch")
 
-![Image](pictures/dracula/dracula_winfetch.png "Dracula - Winfetch")
+### GitHub Dark
+This flavor boasts GitHub's signature dark palette, complete with deep shades of grey and black and crisp white text for clarity. Ideal for those who prefer a classic and traditional look.
 
+![Image](?? "GitHub Dark")
 
-### Credits
+![Image](?? "GitHub Dark - Neofetch")
+
+### GitHub Dim
+A lighter, more subtle take on GitHub's Dark theme, this flavor features soft greys and whites for a relaxed and peaceful workspace.
+
+![Image](?? "GitHub Dim")
+
+![Image](?? "GitHub Dim - Neofetch")
+
+## Credits
 - JanDeDobbeleer's OhMyPosh prompt theme [engine](https://github.com/JanDeDobbeleer/oh-my-posh)
 - Built on the foundation of Night-Owl's Oh-My-Posh [theme](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/night-owl.omp.json)
 - GitHub Primer primitives colour [palette](https://primer.style/primitives/colors)
 - Dracula colour [palette](https://draculatheme.com/contribute)
+- Emeralds colour [palette](https://github.com/salmanjt/emeralds)
