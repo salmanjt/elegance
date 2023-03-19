@@ -10,7 +10,7 @@
     "red": "#e09190",
     "white": "#dfdfc2",
     "yellow": "#efd56c",
-    "brightBlack": "#4D4F42",
+    "brightBlack": "#787868",
     "brightBlue": "#83bcd8",
     "brightCyan": "#95c6bd",
     "brightGreen": "#c0ca91",
@@ -19,5 +19,5 @@
     "brightWhite": "#f5f5f5",
     "brightYellow": "#efd56c",
     "cursorColor": "#dfdfc2",
-    "selectionBackground": "#1e1e1c"
+    "selectionBackground": "#20201f"
 }
