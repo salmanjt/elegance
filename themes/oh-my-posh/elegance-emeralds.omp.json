@@ -68,8 +68,8 @@
                     "foreground_templates": [
                         "{{ if or (.Working.Changed) (.Staging.Changed) }}#f69a65{{ end }}",
                         "{{ if and (gt .Ahead 0) (gt .Behind 0) }}#e09190{{ end }}",
-                        "{{ if gt .Ahead 0 }}#d4a0bd{{ end }}",
-                        "{{ if gt .Behind 0 }}#d4a0bd{{ end }}"
+                        "{{ if gt .Ahead 0 }}#bea5df{{ end }}",
+                        "{{ if gt .Behind 0 }}#bea5df{{ end }}"
                     ],
                     "style": "powerline",
                     "powerline_symbol": "\ue0b0",
@@ -230,7 +230,7 @@
                 },
                 {
                     "background": "#41413A",
-                    "foreground": "#d4a0bd",
+                    "foreground": "#bea5df",
                     "leading_diamond": "\ue0b2",
                     "style": "diamond",
                     "template": "\ue61f {{ if .Error }}{{ .Error }}{{ else }}{{ .Full }}{{ end }} ",
