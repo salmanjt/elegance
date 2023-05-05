@@ -53,7 +53,7 @@
                     "foreground": "#adbac7",
                     "style": "powerline",
                     "powerline_symbol": "\ue0b0",
-                    "template": " {{ .Path }} ",
+                    "template": "{{ .Path }} ",
                     "properties": {
                         "folder_icon": "\uf07c",
                         "folder_separator_icon": " <#1c2128>\ue0b1</> ",
