@@ -16,7 +16,7 @@
     "transient_prompt": {
         "background": "transparent",
         "foreground": "p:bg",
-        "template": "\ueb70 "
+        "template": "\uf0da "
     },
     "blocks": [
         {
@@ -180,7 +180,7 @@
                     "foreground_templates": [
                         "{{ if gt .Code 0 }}p:red{{ end }}"
                     ],
-                    "template": "\u2570\u2500\ueb70",
+                    "template": "\u2570\u2500\uf0da",
                     "properties": {
                         "always_enabled": true
                     }
