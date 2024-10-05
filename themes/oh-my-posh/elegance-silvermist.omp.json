@@ -2,6 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
     "version": 2,
     "final_space": true,
+    "auto_upgrade": true,
     "palette": {
         "background": "#4F5C6C",
         "foreground": "#d5dee1",
