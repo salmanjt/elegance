@@ -32,9 +32,7 @@
           "foreground": "p:background",
           "type": "text",
           "style": "plain",
-          "foreground_templates": [
-            "{{ if gt .Code 0 }}p:red{{ end }}"
-          ]
+          "foreground_templates": ["{{ if gt .Code 0 }}p:red{{ end }}"]
         },
         {
           "properties": {
@@ -80,7 +78,7 @@
             "fetch_upstream_icon": true,
             "fetch_worktree_count": true
           },
-          "leading_diamond": "\ue0b2",
+          "leading_diamond": "\u2500\ue0b2",
           "trailing_diamond": "\ue0b0",
           "template": " [{{ url .UpstreamIcon .UpstreamURL }} {{ .HEAD }}{{if .BranchStatus }} {{ .BranchStatus }}{{ end }}{{ if .Working.Changed }} \uf044 {{ .Working.String }}{{ end }}{{ if and (.Working.Changed) (.Staging.Changed) }} |{{ end }}{{ if .Staging.Changed }} \uf046 {{ .Staging.String }}{{ end }}{{ if gt .StashCount 0 }} \uf692 {{ .StashCount }}{{ end }}] ",
           "foreground": "p:blue",
@@ -108,7 +106,7 @@
             "threshold": 0
           },
           "leading_diamond": "\ue0b2",
-          "template": " \uf64f {{ .FormattedMs }}<transparent,p:background> \u2502 </>",
+          "template": " \uf43a {{ .FormattedMs }}<transparent,p:background> \u2502 </>",
           "foreground": "p:foreground",
           "background": "p:background",
           "type": "executiontime",
@@ -175,11 +173,10 @@
             "linux": "\uf17c",
             "macos": "\ue635",
             "ubuntu": "\uf31b",
-            "windows": "\ue62a"
+            "windows": "\uf17a"
           },
-          "leading_diamond": "<p:background>\ue0b7</>",
-          "trailing_diamond": "<p:background>\ue0b5</>",
-          "template": "{{ if .WSL }}WSL @ {{ end }}{{.Icon}}",
+          "leading_diamond": "<p:background>\ue0b3</>",
+          "template": " {{ if .WSL }}WSL @ {{ end }}{{.Icon}} ",
           "foreground": "p:foreground",
           "background": "transparent",
           "type": "os",
@@ -200,9 +197,7 @@
           "foreground": "p:background",
           "type": "exit",
           "style": "plain",
-          "foreground_templates": [
-            "{{ if gt .Code 0 }}p:red{{ end }}"
-          ]
+          "foreground_templates": ["{{ if gt .Code 0 }}p:red{{ end }}"]
         }
       ],
       "newline": true
