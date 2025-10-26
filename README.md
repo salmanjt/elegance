@@ -6,7 +6,7 @@ By default, elegance uses the **Silvermist** color palette, but it also supports
 
 ## Features
 
-- Two-Line Display: A clean layout that separates the  command input from the informational segments.
+- Two-Line Display: A clean layout that separates the command input from the informational segments.
 - Transient Prompt: Replaces the detailed prompt with a simple › after each command, keeping terminal history clean and readable.
 - Detailed Git Integration:
   - Dynamically changes color to reflect repo status (clean, modified, or diverged)
@@ -51,13 +51,13 @@ By default, elegance uses the **Silvermist** color palette, but it also supports
 
 ## Configuration
 
-#### Using an Alternative Palette
+### Using an Alternative Palette
 
 The elegance theme uses a self-contained `palette` block within the `elegance.omp.json` file. This makes switching themes simple, as you do not need to edit any other part of the theme.
 
 This repository provides alternative palettes in the `palette/` directory. To use one, simply copy the entire JSON content from the desired palette file (e.g., `dracula-oh_my_posh.json`) and paste it over the `palette` block in your `elegance.omp.json` theme file.
 
-#### Matching Terminal Themes
+### Matching Terminal Themes
 
 For the best experience, use the accompanying terminal color schemes.
 
