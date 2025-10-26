@@ -1,0 +1,23 @@
+{
+  "name": "Silvermist",
+  "background": "#1D2834",
+  "foreground": "#D5DEE1",
+  "black": "#1D2834",
+  "blue": "#87BED9",
+  "cyan": "#99C7C7",
+  "green": "#85DB8A",
+  "purple": "#BEA8E1",
+  "red": "#E87A78",
+  "white": "#D5DEE1",
+  "yellow": "#EFD671",
+  "brightBlack": "#8090A3",
+  "brightBlue": "#87BED9",
+  "brightCyan": "#99C7C7",
+  "brightGreen": "#85DB8A",
+  "brightPurple": "#BEA8E1",
+  "brightRed": "#E87A78",
+  "brightWhite": "#F5F5F5",
+  "brightYellow": "#EFD671",
+  "cursorColor": "#D5DEE1",
+  "selectionBackground": "#264F78"
+}
